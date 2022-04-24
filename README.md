@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @koojongin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Stackshare
+https://stackshare.io/koojongin/jonginkoo-stack
+
+Blog
+https://jiku90.tistory.com/
 
 <!---
 koojongin/koojongin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
