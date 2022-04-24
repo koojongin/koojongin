@@ -1,7 +1,7 @@
-Stackshare
+Stackshare  
 https://stackshare.io/koojongin/jonginkoo-stack
 
-Blog
+Blog  
 https://jiku90.tistory.com/
 
 <!---
